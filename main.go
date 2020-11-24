@@ -7,5 +7,6 @@ func main() {
     a = make(chan int)
     fmt.Println(a)
     fmt.Println("Hello Sonar")
+    #ToDo: Sonar Bug Test
 }
 
