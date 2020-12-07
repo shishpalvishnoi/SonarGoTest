@@ -3,7 +3,6 @@ package main
 import "fmt"
 
 func main() {
-    var a chan int
-    a = make(chan int)
+    var a = "shishpal"
     fmt.Println(a)
 }
